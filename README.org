@@ -1,0 +1,10 @@
+* trivial-ws
+
+Trivial WebSockets
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ceramic/trivial-ws.git   |
+| commit  | ebf1ec0  |
+| systems | trivial-ws |
+|---------+-------------------------------------------|
+
